@@ -3,7 +3,7 @@
  --> ...0...V1 . Zasilanie z wbudowanego stabilizatora 78M05 na module L298N.
 
 --> Wiring
-- LiPo 2S -> Switch ON/OFF -> L298N 12V/GND
+- LiPo 2S -> Switch ON/OFF -> L298N 7.4V/GND
 - L298N 5V (78M05) -> Arduino VIN + Turnigy TGY-iA6
 
 --> VCC
