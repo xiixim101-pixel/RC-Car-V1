@@ -1,4 +1,5 @@
-// RC Car V1 - drugi - prosty 4x PWM bez 16-bit - L298N 78M05
+// RC Car V1 - Arduino UNO + L298N + Turnigy iA6
+// 4x PWM, zasilanie 78M05 z L298N
 const int pwmForward = 9;
 const int pwmBackward = 6;
 const int steerLeft = 11;
